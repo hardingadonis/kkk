@@ -1,0 +1,5 @@
+# Directories
+hs_err_pid*
+/build/
+/nbproject/private/
+/dist/
